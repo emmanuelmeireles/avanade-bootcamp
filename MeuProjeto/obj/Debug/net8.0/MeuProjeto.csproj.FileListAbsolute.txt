@@ -1,0 +1,15 @@
+/workspaces/avanade-bootcamp/MeuProjeto/bin/Debug/net8.0/MeuProjeto
+/workspaces/avanade-bootcamp/MeuProjeto/bin/Debug/net8.0/MeuProjeto.deps.json
+/workspaces/avanade-bootcamp/MeuProjeto/bin/Debug/net8.0/MeuProjeto.runtimeconfig.json
+/workspaces/avanade-bootcamp/MeuProjeto/bin/Debug/net8.0/MeuProjeto.dll
+/workspaces/avanade-bootcamp/MeuProjeto/bin/Debug/net8.0/MeuProjeto.pdb
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.AssemblyInfoInputs.cache
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.AssemblyInfo.cs
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.sourcelink.json
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.dll
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/refint/MeuProjeto.dll
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.pdb
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/MeuProjeto.genruntimeconfig.cache
+/workspaces/avanade-bootcamp/MeuProjeto/obj/Debug/net8.0/ref/MeuProjeto.dll
